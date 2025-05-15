@@ -1,10 +1,13 @@
 # Git Formation – ISET Zaghouan
 
+Welcome to my Git & GitHub repo
+
 ## 🎯 Your Challenge:
-1. Clone it locally
-2. Create a file with your name (e.g. `dhia.txt`)
-3. Add something inside (can be anything!)
-4. Commit & push
-5. Open a Pull Request!
+1. Fork this repo
+2. Clone it locally
+3. Create a file with your name (e.g. `dhia.txt`)
+4. Add something inside (can be anything!)
+5. Commit & push
+6. Open a Pull Request!
 
 Let's practice Git together 🤘
